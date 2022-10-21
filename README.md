@@ -1,6 +1,6 @@
-Olá eu sou a Bianca
+<h2> <b>Olá eu sou a Bianca, estudo Desenvolvimento de Sistemas </h2>
 
-- Estou estudando Flutter
+<h3> No momento estou estudando programação com Flutter </b></h3>
 
 <div>
   <a href="https://github.com/rafaballerini">

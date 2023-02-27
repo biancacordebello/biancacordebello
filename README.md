@@ -1,4 +1,5 @@
-<h2> <b>Olá eu sou a Bianca, estudo Análise e Desenvolvimento de Sistemas </h2>
+<h2> <b>Hello, I'm Bianca and I study systems analysis and development
+</h2>
 
 <div>
   <a href="https://github.com/biancacordebello">

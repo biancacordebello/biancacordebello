@@ -1,4 +1,4 @@
-<h2> <b>Hello, I'm Bianca and I study systems analysis and development
+<h2> <b>Hello, I'm Bianca and I love to explore different tech areas
 </h2>
 
 <div>

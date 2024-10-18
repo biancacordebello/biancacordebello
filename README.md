@@ -41,5 +41,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-biancacordebello-ec519f?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/bianca-cordebello/])
+[![Linkedin](https://img.shields.io/badge/-biancacordebello-ec519f?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-cordebello)
 [![GitHub](https://img.shields.io/github/followers/biancacordebello?label=follow&style=social)](https://github.com/biancacordebello)

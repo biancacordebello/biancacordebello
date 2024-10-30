@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=biancacordebello&color=ec519f)
-
 ## About Me
 
 - 🤔 Exploring new technologies and developing software solutions.

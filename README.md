@@ -36,9 +36,8 @@
 
 <br/>
 
-<a href="https://github.com/biancacordebello" title="Perfil da Bianca / Bianca's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancacordebello&theme=bear&show_icons=true" />
-</a>
+[![Bianca top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biancacordebello&theme=bear)](https://github.com/biancacordebello/github-readme-stats)
+
 
 ## Where to Find Me
 

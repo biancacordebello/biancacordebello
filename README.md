@@ -1,9 +1,9 @@
 ## About Me
 
 - 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Systems Analysis and Development.
-- 💼 Interning as a DevOps Developer.
-- 🌱 Learning more about Python, Golang, Podman, Docker, Ansible and Artificial Intelligence.
+- 🎓 Systems Analysis and Development Technologist.
+- 💼 DevOps Developer.
+- 🌱 Learning more about Python, Podman, Docker, Ansible and Artificial Intelligence.
 
 ## My Skills
 

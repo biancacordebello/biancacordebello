@@ -2,7 +2,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Systems Analysis and Development Technologist.
-- 💼 DevOps Developer.
+- 💼 Software Developer.
 - 🌱 Learning more about Python, Podman, Docker, Ansible and Artificial Intelligence.
 
 ## My Skills
